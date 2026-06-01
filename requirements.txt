@@ -1,0 +1,22 @@
+# CLI
+typer[all]
+rich==13.7.1
+
+# PII Detection
+presidio-analyzer==2.2.354
+presidio-anonymizer==2.2.354
+spacy==3.7.6
+en_core_web_lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.7.1/en_core_web_lg-3.7.1-py3-none-any.whl
+
+# NER model (downloaded separately via: python -m spacy download en_core_web_lg)
+
+# File parsing
+python-docx==1.1.0
+openpyxl==3.1.2
+pdfplumber==0.11.0
+
+# Code security analysis
+bandit==1.7.9
+
+# Encryption (for optional vault export)
+cryptography==42.0.8

@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# All user data — never commit
+data/
+
+# Vault files wherever they appear
+*.vault
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# Docker
+.docker/

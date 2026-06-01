@@ -1,0 +1,12 @@
+services:
+  scrub:
+    build: .
+    image: scrub:latest
+    volumes:
+      - ./data/input:/data/input    # drop input files here
+      - ./data/output:/data/output  # masked output goes here
+      - ./data/vaults:/data/vaults  # encrypted vault files
+    environment:
+      - SCRUB_SECRET=${SCRUB_SECRET:-scrub-local-secret}
+    stdin_open: true
+    tty: true
