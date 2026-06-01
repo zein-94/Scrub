@@ -1,0 +1,76 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Scrub — Privacy-first PII masking for AI agents
+Copyright (C) 2024 Scrub Contributors
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+-------------------------------------------------------------------------------
+
+SCOPE
+
+This license covers all files in this repository:
+
+  cli.py
+  vault.py
+  main.py
+  detectors/
+  analyzers/
+  modes/
+  routers/
+  tests/
+
+-------------------------------------------------------------------------------
+
+PLAIN ENGLISH SUMMARY
+
+You are FREE to:
+
+  Use Scrub for any purpose — personal, internal, or commercial
+  Study and read the source code
+  Copy and distribute it to others
+  Modify it and build on top of it
+  Use it inside your own products and services
+
+You MUST, if you distribute modified versions:
+
+  Release the complete source code of your modifications
+  License your modifications under GPL v3
+  State clearly what changes you made
+  Keep all copyright and license notices intact
+
+You CANNOT:
+
+  Take this code, modify it, and distribute it as closed-source
+  Remove or hide the original copyright notices
+  Hold the authors liable for damages
+
+Using Scrub as a tool without modifying and redistributing it does NOT
+require you to open source your own code. The copyleft requirement only
+applies if you distribute a modified version of Scrub itself.
+
+-------------------------------------------------------------------------------
+
+ORIGIN
+
+Scrub was built after an AWS access key leaked through an AI chat
+assistant, causing $10,000 in cloud charges in a single day.
+
+It was open-sourced so no one else has to learn that lesson the
+hard way.
+
+-------------------------------------------------------------------------------
+
+Full license text: https://www.gnu.org/licenses/gpl-3.0.txt
