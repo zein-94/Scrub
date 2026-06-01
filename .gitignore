@@ -2,7 +2,7 @@
 .env
 
 # All user data — never commit
-# data/
+data/
 
 # Vault files wherever they appear
 *.vault
