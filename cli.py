@@ -1,3 +1,6 @@
+# Scrub CLI — Privacy-first PII masking for AI agents
+# Copyright (C) 2024 Scrub Contributors
+# Licensed under GNU GPL v3 — see LICENSE for details
 # cli.py
 import typer
 from rich.console import Console
