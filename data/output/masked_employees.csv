@@ -1,0 +1,9 @@
+employee_id | full_name | email | phone | national_id | iban | salary | dob | department
+EMP001 | {{NAME_6}} | {{EMAIL_8}} | {{PHONE_8}} | {{NATIONAL_ID_8}} | {{IBAN_8}} | 25000 | {{DATE_8}} | Engineering
+EMP002 | {{NAME_5}} | {{EMAIL_7}} | {{PHONE_7}} | {{NATIONAL_ID_7}} | {{IBAN_7}} | 32000 | {{DATE_7}} | Finance
+EMP003 | Carlos Rivera | {{EMAIL_6}} | {{PHONE_6}} | {{NATIONAL_ID_6}} | {{IBAN_6}} | 28500 | {{DATE_6}} | Marketing
+EMP004 | {{NAME_4}} | {{EMAIL_5}} | {{PHONE_5}} | {{NATIONAL_ID_5}} | {{IBAN_5}} | 22000 | {{DATE_5}} | HR
+EMP005 | {{NAME_3}} | {{EMAIL_4}} | {{PHONE_4}} | {{NATIONAL_ID_4}} | {{IBAN_4}} | 41000 | {{DATE_4}} | Engineering
+EMP006 | Sophie Dubois | {{EMAIL_3}} | {{PHONE_3}} | {{NATIONAL_ID_3}} | {{IBAN_3}} | 19500 | {{DATE_3}} | Design
+EMP007 | {{NAME_2}} | {{EMAIL_2}} | {{PHONE_2}} | {{NATIONAL_ID_2}} | {{IBAN_2}} | 37000 | {{DATE_2}} | Operations
+EMP008 | {{NAME_1}} | {{EMAIL_1}} | {{PHONE_1}} | {{NATIONAL_ID_1}} | {{IBAN_1}} | 29000 | {{DATE_1}} | Engineering

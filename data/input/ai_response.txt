@@ -1,0 +1,23 @@
+Subject: Re: Contract Renewal — Q2 2024
+
+Hi {{NAME_1}},
+
+Thank you for sending over the details.
+
+I have reviewed the contract renewal information for {{NAME_2}} and can confirm that all the client and payment details listed below are correct:
+
+* **Emirates ID:** {{NATIONAL_ID_1}}
+* **Passport No:** {{PASSPORT_1}}
+* **IBAN:** {{IBAN_1}}
+
+We will arrange for the first instalment of AED 16,000 to be wired to the specified account by the March 31 deadline to ensure everything is processed on time.
+
+If we need any further information or have any questions regarding the paperwork, {{NAME_3}} or I will reach out to you at {{EMAIL_1}} or {{PHONE_3}}.
+
+Thanks again for your assistance in setting this up.
+
+Best regards,
+
+{{NAME_3}}
+[Your Title/Company]
+{{EMAIL_3}}

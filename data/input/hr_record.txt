@@ -1,0 +1,67 @@
+EMPLOYEE ONBOARDING RECORD
+Acme Corporation — Human Resources Department
+Document Reference: HR-2024-00412
+Date Issued: 01 April 2024
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PERSONAL INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Full Name:              Mohammed Al Rashid
+Date of Birth:          03/09/1990
+Nationality:            United Arab Emirates
+Emirates ID:            784-1990-7654321-1
+Passport Number:        B12345678
+Passport Expiry:        22/11/2027
+Visa Type:              Employment Visa — Category 3
+
+Home Address:
+  Apartment 14B, Al Barsha Tower 3
+  Al Barsha 1, Dubai, UAE
+  PO Box: 123456
+
+Personal Email:         m.alrashid.personal@gmail.com
+Work Email:             m.alrashid@acmecorp.com
+Mobile (Personal):      +971 52 345 6789
+Mobile (Work):          +971 50 111 9988
+Emergency Contact:      Fatima Al Rashid — +971 55 222 3344 (Spouse)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EMPLOYMENT DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Job Title:              Senior Software Engineer
+Department:             Engineering
+Start Date:             01 April 2024
+Probation End Date:     30 June 2024
+Manager:                David Chen (d.chen@acmecorp.com)
+Employee ID:            EMP-20240401-007
+
+Salary:                 AED 28,500 / month
+Housing Allowance:      AED 8,000 / month
+Transport Allowance:    AED 1,500 / month
+
+Bank Name:              Emirates NBD
+IBAN:                   AE21 0260 0012 3456 7890 123
+Account Name:           Mohammed Al Rashid
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MEDICAL INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Medical Insurance:      DubaiCare Gold — Policy No. DC-2024-88812
+Insurance Provider:     AXA Gulf
+Blood Type:             O+
+Known Allergies:        Penicillin
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VEHICLE INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Registered Vehicle:     Toyota Land Cruiser 2022
+Plate Number:           Dubai A 12345
+VIN:                    JTMRV33V876543210
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Prepared by: Lisa Morgan (l.morgan@acmecorp.com)
+HR Business Partner | +971 4 800 5678

@@ -1,0 +1,67 @@
+EMPLOYEE ONBOARDING RECORD
+Acme Corporation — Human Resources Department
+Document Reference: HR-2024-00412
+Date Issued: {{DATE_2}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PERSONAL INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Full Name:              {{NAME_4}}
+Date of Birth:          {{DATE_4}}
+Nationality:            {{LOCATION_3}}
+Emirates ID:            {{NATIONAL_ID_1}}
+Passport Number:        {{PASSPORT_1}}
+Passport Expiry:        {{DATE_3}}
+Visa Type:              Employment Visa — Category 3
+
+Home Address:
+  Apartment 14B, Al Barsha Tower 3
+  Al Barsha 1, {{LOCATION_1}}, {{LOCATION_2}}
+  PO Box: 123456
+
+Personal Email:         {{EMAIL_4}}
+Work Email:             {{EMAIL_3}}
+Mobile (Personal):      {{PHONE_4}}
+Mobile (Work):          {{PHONE_3}}
+Emergency Contact:      {{NAME_3}} — {{PHONE_2}} (Spouse)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EMPLOYMENT DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Job Title:              Senior Software Engineer
+Department:             Engineering
+Start Date:             {{DATE_2}}
+Probation End Date:     {{DATE_1}}
+Manager:                {{NAME_2}} ({{EMAIL_2}})
+Employee ID:            EMP-20240401-007
+
+Salary:                 AED 28,500 / month
+Housing Allowance:      AED 8,000 / month
+Transport Allowance:    AED 1,500 / month
+
+Bank Name:              Emirates NBD
+IBAN:                   {{IBAN_1}}
+Account Name:           Mohammed Al Rashid
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MEDICAL INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Medical Insurance:      DubaiCare Gold — Policy No. DC-2024-88812
+Insurance Provider:     AXA Gulf
+Blood Type:             O+
+Known Allergies:        Penicillin
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VEHICLE INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Registered Vehicle:     Toyota Land Cruiser 2022
+Plate Number:           {{LOCATION_1}} A 12345
+VIN:                    JTMRV33V876543210
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Prepared by: {{NAME_1}} ({{EMAIL_1}})
+HR Business Partner | {{PHONE_1}}

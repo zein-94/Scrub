@@ -1,0 +1,63 @@
+{
+  "app": {
+    "name": "AcmeApp",
+    "version": "2.4.1",
+    "environment": "production",
+    "admin_email": "admin@acmecorp.com",
+    "support_email": "support@acmecorp.com"
+  },
+  "database": {
+    "host": "192.168.1.45",
+    "port": 5432,
+    "name": "prod_db",
+    "user": "admin",
+    "password": "SuperSecret@DB2024!",
+    "connection_string": "postgresql://admin:SuperSecret@DB2024!@192.168.1.45:5432/prod_db"
+  },
+  "auth": {
+    "jwt_secret": "my_jwt_secret_key",
+    "token_expiry_hours": 24,
+    "session_secret": "sess123",
+    "allowed_domains": ["acmecorp.com", "clientco.ae"]
+  },
+  "integrations": {
+    "stripe": {
+      "secret_key": "sk_live_51OaBcDEfGhIjKlMnOpQrStUv",
+      "webhook_secret": "whsec_abcdefghijklmnopqrstuvwxyz",
+      "currency": "AED"
+    },
+    "sendgrid": {
+      "api_key": "SG.abcdefghijklmnop.qrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ12",
+      "from_email": "noreply@acmecorp.com",
+      "from_name": "Acme Corporation"
+    },
+    "aws": {
+      "access_key_id": "AKIAIOSFODNN7EXAMPLE",
+      "secret_access_key": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
+      "region": "me-south-1",
+      "s3_bucket": "acme-prod-uploads"
+    },
+    "slack": {
+      "bot_token": "xoxb-123456789-abcdefghijklmnopqrstuvwxyz",
+      "webhook_url": "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX",
+      "alert_channel": "#alerts"
+    }
+  },
+  "internal": {
+    "api_url": "http://internal-api.acmecorp.com/v2",
+    "admin_server": "10.0.0.100",
+    "metrics_server": "10.0.0.55:9090"
+  },
+  "contacts": {
+    "cto": {
+      "name": "David Chen",
+      "email": "d.chen@acmecorp.com",
+      "phone": "+971 50 999 8877"
+    },
+    "devops": {
+      "name": "Lisa Morgan",
+      "email": "l.morgan@acmecorp.com",
+      "phone": "+971 55 123 4567"
+    }
+  }
+}
