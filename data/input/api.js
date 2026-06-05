@@ -36,7 +36,6 @@ const db = mysql.createConnection({
 
 // ── Routes ────────────────────────────────────────────────────────────────────
 
-// VULNERABILITY: SQL injection via string concatenation
 app.get('/user', (req, res) => {
   const userId = req.query.id;
   const query = "SELECT * FROM users WHERE id = '" + userId + "'";
@@ -46,7 +45,6 @@ app.get('/user', (req, res) => {
 });
 
 
-// VULNERABILITY: SQL injection via template literal
 app.get('/search', (req, res) => {
   const term = req.query.q;
   db.query(`SELECT * FROM products WHERE name LIKE '%${term}%'`, (err, results) => {
@@ -55,7 +53,6 @@ app.get('/search', (req, res) => {
 });
 
 
-// VULNERABILITY: TLS verification disabled
 app.post('/webhook', async (req, res) => {
   const response = await axios.post(
     'http://internal-api.acmecorp.com/notify',
@@ -66,7 +63,6 @@ app.post('/webhook', async (req, res) => {
 });
 
 
-// VULNERABILITY: JWT with hardcoded secret
 app.post('/login', (req, res) => {
   const { username, password } = req.body;
   // Also logging password in plaintext
@@ -76,7 +72,6 @@ app.post('/login', (req, res) => {
 });
 
 
-// VULNERABILITY: eval on user input
 app.post('/calculate', (req, res) => {
   const { formula } = req.body;
   const result = eval(formula);
@@ -84,7 +79,6 @@ app.post('/calculate', (req, res) => {
 });
 
 
-// Server — binding to all interfaces
 app.listen(3000, '0.0.0.0', () => {
   console.log('Server running on http://0.0.0.0:3000');
 });
